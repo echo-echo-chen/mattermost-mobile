@@ -1,12 +1,7 @@
 // Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
-// See LICENSE.txt for license information.
+// See LICENSE.txt for license information.git
 
-//dhsaklnfa
-
-//hdsafnas
-
-
-// hfhaskfdhnas1234
+// int cnt = 0;
 
 import {RUNNING_E2E} from '@env';
 import TurboLogger from '@mattermost/react-native-turbo-log';
